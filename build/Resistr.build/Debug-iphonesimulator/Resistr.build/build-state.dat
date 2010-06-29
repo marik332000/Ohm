@@ -1,0 +1,277 @@
+TResistr
+v7
+r0
+t299527514.194564
+cCheck dependencies
+cProcessInfoPlistFile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Info.plist Resistr-Info.plist
+cCompileXIB /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib
+cCompileXIB /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib
+cCpResource build/Debug-iphonesimulator/Resistr.app/gradientBackground.png gradientBackground.png
+cProcessPCH /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch.gch Resistr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/main.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrAppDelegate.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrViewController.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr normal i386
+cGenerateDSYMFile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app.dSYM /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr
+cTouch /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C1BAE930000000000000132
+t1276882579
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.h
+c000000004C2A347E00000000000005E6
+t1277834366
+s1510
+i<UIKit/UIKit.h>
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m
+c000000004C2A35D70000000000001598
+t1277834711
+s5528
+i"ResistrAppDelegate.h"
+i"ResistrViewController.h"
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.h
+c000000004C2986BB00000000000000F6
+t1277789883
+s246
+i<UIKit/UIKit.h>
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m
+c000000004C29862700000000000005C4
+t1277789735
+s1476
+i"ResistrViewController.h"
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib
+c000000004C2A34C80000000000008372
+t1277834440
+s33650
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib
+c000000004C2984110000000000001A45
+t1277789201
+s6725
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Resistr_Prefix.pch
+c000000004C29841100000000000000B7
+t1277789201
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app
+t1277834711
+s272
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app.dSYM
+t1277834711
+s102
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Info.plist
+t1277789202
+s591
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/MainWindow.nib
+t1277834463
+s2704
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/PkgInfo
+t1277789202
+s8
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr
+t1277834711
+s24900
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/ResistrViewController.nib
+t1277789203
+s795
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/gradientBackground.png
+t1277789485
+s9799
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/Resistr.LinkFileList
+c000000004C29841200000000000001C0
+t1277789202
+s448
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrAppDelegate.o
+t1277834711
+s62956
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrViewController.o
+t1277789893
+s34432
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/main.o
+t1277789204
+s6336
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/gradientBackground.png
+c000000004C2941EA0000000000002647
+t1277772266
+s9799
+
+N/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m
+c000000004C2984110000000000000173
+t1277789201
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch.gch
+t1277789204
+s15232016
+
+NResistr-Info.plist
+c000000004C298411000000000000038D
+t1277789201
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299527514#299527514#0(0"0(0#1#0"8627338880#0"0#
+
+CCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrAppDelegate.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299527511.579761
+e299527511.696291
+r1
+xCompileC
+xbuild/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrAppDelegate.o
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m299527511#299527511#0(0"0(0#0#84"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m8603028256#2124"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-generated-files.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-own-target-headers.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-all-target-headers.hmap -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-project-headers.hmap -F/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/include -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources/i386 -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources -include /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch -c /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrAppDelegate.m -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrAppDelegate.o0#
+
+CCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrViewController.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299482693.859556
+e299482693.913596
+r1
+xCompileC
+xbuild/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrViewController.o
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m299482693#299482693#0(0"0(0#0#87"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m8617324992#2130"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-generated-files.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-own-target-headers.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-all-target-headers.hmap -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-project-headers.hmap -F/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/include -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources/i386 -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources -include /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch -c /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Classes/ResistrViewController.m -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/ResistrViewController.o0#
+
+CCompileC build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/main.o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299482004.202054
+e299482004.257474
+r1
+xCompileC
+xbuild/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/main.o
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m299482004#299482004#0(0"0(0#0#62"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m8602564768#2088"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-generated-files.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-own-target-headers.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-all-target-headers.hmap -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-project-headers.hmap -F/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/include -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources/i386 -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources -include /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch -c /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/main.m -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib
+s299527263.286404
+e299527263.863415
+r1
+xCompileXIB
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib:10: warning: 'Resistr View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib299527263#299527263#0(239"/* com.apple.ibtool.document.warnings *//Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib:10: warning: 'Resistr View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.1(22@113"'Resistr View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.299527263#18446744073709551615#0#0(6@70"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib299527240#10#0#10#0#0"0(0#0#70"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib8625889152#621"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/MainWindow.nib /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib
+s299482002.903783
+e299482003.319009
+r1
+xCompileXIB
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib
+lSLF07#2@36"CompileXIB ResistrViewController.xib299482002#299482003#0(0"0(0#0#81"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib8600609312#643"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/ResistrViewController.nib /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/ResistrViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Resistr.app/gradientBackground.png gradientBackground.png
+s299482285.858948
+e299482285.888005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Resistr.app/gradientBackground.png
+xgradientBackground.png
+lSLF07#2@27"Copy gradientBackground.png299482285#299482285#0(0"0(0#0#78"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/gradientBackground.png8625156896#517"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/gradientBackground.png /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app0#
+
+CGenerateDSYMFile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app.dSYM /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr
+s299527511.717281
+e299527511.730900
+r1
+xGenerateDSYMFile
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app.dSYM
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Resistr.app.dSYM build/Debug-iphonesimulator/Resistr.app/Resistr299527511#299527511#0(0"0(0#0#103"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr8617050720#434"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app.dSYM0#
+
+CLd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr normal i386
+s299527511.696381
+e299527511.717193
+r1
+xLd
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr
+xnormal
+xi386
+lSLF07#2@108"Link /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr299527511#299527511#0(0"0(0#0#0"8619254464#985"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -F/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -filelist /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Objects-normal/i386/Resistr.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Resistr0#
+
+CProcessInfoPlistFile /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Info.plist Resistr-Info.plist
+s299482002.896996
+e299482002.902647
+r1
+xProcessInfoPlistFile
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Info.plist
+xResistr-Info.plist
+lSLF07#2@26"Process Resistr-Info.plist299482002#299482002#0(0"0(0#0#74"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Resistr-Info.plist8601072672#530"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resistr-Info.plist -genpkginfo /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app/Info.plist0#
+
+CProcessPCH /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch.gch Resistr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299482003.425536
+e299482004.201910
+r1
+xProcessPCH
+x/var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch.gch
+xResistr_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Resistr_Prefix.pch299482003#299482004#0(0"0(0#0#74"/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Resistr_Prefix.pch8603125664#1963"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-generated-files.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-own-target-headers.hmap -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-all-target-headers.hmap -iquote /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/Resistr-project-headers.hmap -F/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/include -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources/i386 -I/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Resistr.build/Debug-iphonesimulator/Resistr.build/DerivedSources -c /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/Resistr_Prefix.pch -o /var/folders/-J/-J8zUCZ5EEOC+L7w+qGXQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Resistr_Prefix-dkkjvpspuktwhibknpxacptzmiyc/Resistr_Prefix.pch.gch0#
+
+CTouch /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app
+s299527511.730994
+e299527511.733128
+r1
+xTouch
+x/Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app
+lSLF07#2@101"Touch /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app299527511#299527511#0(0"0(0#0#0"8616554816#312"    cd /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/corbett/Dropbox/Projects/Mobile/Tutorial/Resistr/build/Debug-iphonesimulator/Resistr.app0#
+
